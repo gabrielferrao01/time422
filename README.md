@@ -9,4 +9,8 @@ Para possibilitar o atendimento via whatsapp é utilizado um assistente virtual,
 
 A Carol foi desenvolvida utilizando a plataforma Twilio (http://twilio.com).
 
+Carol: a pasta carol contém todos os arquivos que trabalham diretamente com as funcionalidades implementadas no twilio.
+
+Website: a pasta website contém todo conteúdo relacionado com as ferramentas utilizadas pelos clientes e colaboradores (fora do whatsapp).
+
 Venha ser saudável conosco!
