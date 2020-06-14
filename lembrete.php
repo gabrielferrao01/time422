@@ -19,7 +19,7 @@ $message = $twilio->messages
                            [
                                "mediaUrl" => [$lembrete_url],
                                "from" => "whatsapp:" . $telefoneorigem,
-                               "body" => $lembrete
+                               "body" => ""
                            ]
                   );
 
