@@ -18,11 +18,11 @@ Carol: a pasta carol contém todos os arquivos que trabalham diretamente com as 
 Website: a pasta website contém todo conteúdo relacionado com as ferramentas utilizadas pelos clientes e colaboradores (fora do whatsapp).
 
 ### Equipe
-**Bruno Marcon**
-**Ezequias Berto**
-**Gabriel Ferrão**
-**Giovany Nogueira**
-**Lais Moraes**
-**Lucas Arruda Ramalho**
+- **Bruno Marcon**
+- **Ezequias Berto**
+- **Gabriel Ferrão**
+- **Giovany Nogueira**
+- **Lais Moraes**
+- **Lucas Arruda Ramalho**
 
 **Venha ser saudável conosco!**
