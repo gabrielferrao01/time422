@@ -75,10 +75,11 @@ body {
 }
 
 #faqs{
+	background-color: rgba(169, 230, 142, 0.95);
 	display: none;
 	color: black;
-	font-size:12px;
-	text-align: center;
+	font-size:14px;
+	text-align: justify;
 	font-family:Arial;
 	font-weight:bold;
 }
