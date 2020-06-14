@@ -1,0 +1,7 @@
+{
+    "name": "gabriel/time422",
+    "description": "dependencias do projeto",
+    "require": {
+        "twilio/sdk": "^6.7"
+    }
+}
