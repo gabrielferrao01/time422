@@ -17,9 +17,9 @@ $twilio = new Client($sid, $token);
 $message = $twilio->messages
                   ->create("whatsapp:" . $telefone, // to
                            [
-                               "mediaUrl" => ["http://www.lanalab.com/time422/lembrete.ogg"],
+                               "mediaUrl" => [$lembrete_url],
                                "from" => "whatsapp:" . $telefoneorigem,
-                               "body" => ""
+                               "body" => $lembrete
                            ]
                   );
 

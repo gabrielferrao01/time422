@@ -17,7 +17,7 @@ $twilio = new Client($sid, $token);
 $message = $twilio->messages
                   ->create("whatsapp:" . $telefone, // to
                            [
-                               "mediaUrl" => ["http://www.lanalab.com/time422/audio.mp3"],
+                               "mediaUrl" => [$audio_combo_url],
                                "from" => "whatsapp:" . $telefoneorigem,
                                "body" => ""
                            ]
@@ -25,7 +25,7 @@ $message = $twilio->messages
 $message1 = $twilio->messages
                   ->create("whatsapp:" . $telefone, // to
                            [
-                               "mediaUrl" => ["http://www.lanalab.com/time422/foto.jpeg"],
+                               "mediaUrl" => [$foto_combo_url],
                                "from" => "whatsapp:" . $telefoneorigem,
                                "body" => ""
                            ]
