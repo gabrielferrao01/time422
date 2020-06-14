@@ -3,8 +3,8 @@
 
 // Update the path below to your autoload.php,
 // see https://getcomposer.org/doc/01-basic-usage.md
-require_once './vendor/autoload.php';
-require_once './variaveis.php';
+require_once '../vendor/autoload.php';
+require_once '../variaveis.php';
 
 use Twilio\Rest\Client;
 
